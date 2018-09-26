@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hazin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="signup"> Sign Up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="lista">Recitas e Despesas</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="menu_api">API</string>
+    <string name="menu_sair">Sair</string>
+
+</resources>

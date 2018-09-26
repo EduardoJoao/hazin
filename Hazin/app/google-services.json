@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570309916056",
+    "firebase_url": "https://hazin-f5ac1.firebaseio.com",
+    "project_id": "hazin-f5ac1",
+    "storage_bucket": "hazin-f5ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570309916056:android:9e814237fc0b00d8",
+        "android_client_info": {
+          "package_name": "com.example.hazin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570309916056-41m39brjps48jvg4d984cvpte3jkm0qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hazin",
+            "certificate_hash": "c7105d3b69140fe4e0599ba6086ddbf8ccd39993"
+          }
+        },
+        {
+          "client_id": "570309916056-tnekllmdv61r2tc6ov0kfki8onaen7m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qnbuqn9wuMQdpd_sRLeQC7XsGSsyzNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570309916056-tnekllmdv61r2tc6ov0kfki8onaen7m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
